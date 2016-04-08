@@ -1,7 +1,8 @@
-# 0300AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]
+# 0300AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
 
 * `0207Waqidi.FutuhSham (TAGS: ...,PPE)`
 * `0207Waqidi.Maghazi (TAGS: ...,PPE)`
+* `0209MacmarIbnMuthanna.Khayl (TAGS: ...,PPE)`
 * `0213IbnHisham.SiraNabawiyya (TAGS: BIO,DHB,PPE)`
 * `0230IbnSacd.TabaqatKubra (TAGS: BIO,COL,PPE)`
 * `0231IbnSallamJumahi.TabaqatFuhulShucara (TAGS: ...,PPE)`
@@ -11,11 +12,12 @@
 * `0240KhalifaIbnKhayyat.Tabaqat (TAGS: ...,PPE)`
 * `0240KhalifaIbnKhayyat.Tarikh (TAGS: ...,PPE)`
 * `0241IbnHanbal.AsamiWaKuna (TAGS: ...,PPE)`
+* `0241IbnHanbal.CilalWaMacrifa (TAGS: ...,PPE)`
 * `0249Azraqi.AkhbarMakka (TAGS: ...,PPE)`
 * `0256Bukhari.DucafaSaghir (TAGS: HAD,BIO,PPE)`
 * `0256Bukhari.TarikhKabir (TAGS: ...,PPE)`
 * `0256Bukhari.TarikhSaghir (TAGS: ...,PPE)`
-* `0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat (TAGS: ...)`
+* `0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat (TAGS: ...,PPE)`
 * `0256ZubayrIbnBakkar.JamharaNasabQuraysh (TAGS: PPE,...)`
 * `0256ZubayrIbnBakkar.Muntakhab (TAGS: ...,PPE)`
 * `0257IbnCabdHakam.FutuhMisr (TAGS: ...,PPE)`
@@ -30,9 +32,10 @@
 * `0277IbnSyfyanFasawi.MacrifaWaTarikh (TAGS: ...,PPE)`
 * `0279Baladhuri.AnsabAshraf (TAGS: GEN,PPE)`
 * `0279Baladhuri.FutuhBuldan (TAGS: ...,PPE)`
-* `0279IbnAbiKhaythama.TarikhKabir (TAGS: ...)`
+* `0279IbnAbiKhaythama.TarikhKabir (TAGS: ...,PPE)`
 * `0281AbuZurcaDimashqi.Tarikh (TAGS: ...,PPE)`
-* `0282AbuHanifaDinawari.AkhbarTiwal (TAGS: ...)`
+* `0282AbuHanifaDinawari.AkhbarTiwal (TAGS: ...,PPE)`
+* `0287Dahhak.AhadWaMathani (TAGS: ...,PPE)`
 * `0292Bahshal.TarikhWasit (TAGS: ...,PPE)`
 * `0292Yacqubi.TarikhYacqubi (TAGS: ...,PPE)`
 * `0300IbnKhurdadhbih.MasalikWaMamalik (TAGS: GEO,PPE)`
