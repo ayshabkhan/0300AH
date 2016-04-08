@@ -1,4 +1,4 @@
-# 0300AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0300AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0207Waqidi.FutuhSham (TAGS: ...,PPE)`
 * `0207Waqidi.Maghazi (TAGS: ...,PPE)`
@@ -37,5 +37,7 @@
 * `0282AbuHanifaDinawari.AkhbarTiwal (TAGS: ...,PPE)`
 * `0287Dahhak.AhadWaMathani (TAGS: ...,PPE)`
 * `0292Bahshal.TarikhWasit (TAGS: ...,PPE)`
+* `0292Yacqubi.Buldan (TAGS: ...,PPE)`
 * `0292Yacqubi.TarikhYacqubi (TAGS: ...,PPE)`
+* `0300.MuallifMajhul.AkhbarDawlaCabbasiya (TAGS: ...,PPE)`
 * `0300IbnKhurdadhbih.MasalikWaMamalik (TAGS: GEO,PPE)`
