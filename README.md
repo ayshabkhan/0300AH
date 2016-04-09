@@ -1,14 +1,17 @@
-# 0300AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
+# 0300AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
 
+* `0204IbnKalbi.AnsabKhayl (TAGS: ...,GEN,PPE)`
 * `0204IbnKalbi.JamharaAnsab (TAGS: ...,GEN,PPE)`
 * `0204IbnKalbi.NasabMacad (TAGS: ...,GEN,PPE)`
 * `0207Waqidi.FutuhSham (TAGS: ...,PPE)`
 * `0207Waqidi.Maghazi (TAGS: ...,PPE)`
+* `0207Waqidi.Ridda (TAGS: ...,PPE)`
 * `0209MacmarIbnMuthanna.Khayl (TAGS: ...,PPE)`
 * `0213IbnHisham.SiraNabawiyya (TAGS: BIO,DHB,PPE)`
 * `0213IbnHisham.Tijan (TAGS: ...,PPE)`
 * `0230IbnSacd.TabaqatKubra (TAGS: BIO,COL,PPE)`
 * `0231IbnSallamJumahi.TabaqatFuhulShucara (TAGS: ...,PPE)`
+* `0233YahyaIbnMacin.MacrifaRijal (TAGS: ...,PPE)`
 * `0233YahyaIbnMacin.MinKalamFiRijal (TAGS: ...,PPE)`
 * `0233YahyaIbnMacin.TarikhIbnMacin (TAGS: ...,PPE)`
 * `0234AbuHasanSacdi.TasmiyaManRuwiya  (TAGS: ...,PPE)`
