@@ -78,7 +78,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-08-31 (21:53:15) ]]
+# 0300AH [[ [Re]generated on 2016-09-02 (17:54:33) ]]
 
 * `0204IbnKalbi.AnsabKhayl (TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0204IbnKalbi.JamharaAnsab (TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH)`
@@ -137,6 +137,7 @@
 * `0264AbyZurca.Ducafa (TAGS: CENT0300, _HADITH, _SUALAT, _TARAJIM)`
 * `0272Fakihi.AkhbarMakka (TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0276IbnQutaybaDinawari.AdabKatib (TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
+* `0276IbnQutaybaDinawari.CuyunAkhbar (TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `0276IbnQutaybaDinawari.Macarif (TAGS: CENT0300, PPE, _ANSAB, _MACAJIM, _TARIKH)`
 * `0277AbuHatimRazi.JarhWaTacdil (TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0277IbnSyfyanFasawi.MacrifaWaTarikh (TAGS: CENT0300, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM, _TARIKH)`
