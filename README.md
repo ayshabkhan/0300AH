@@ -1,17 +1,18 @@
 ## Status Report
  
-* 59 titles
-* 30,942,155 words
+* 60 titles
+* 31,039,385 words
 * 156,003 logical units
 * 12,900 bios
 
-### `*.inProgress` (6 titles: 8,408,580 words; 35,706 units; 0 bios)
+### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0748Dhahabi.MacrifaQurraKibar (97,230 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
@@ -78,7 +79,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-09-02 (17:54:33) ]]
+# 0300AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]
 
 * `0204IbnKalbi.AnsabKhayl (TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0204IbnKalbi.JamharaAnsab (TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH)`
@@ -137,8 +138,20 @@
 * `0264AbyZurca.Ducafa (TAGS: CENT0300, _HADITH, _SUALAT, _TARAJIM)`
 * `0272Fakihi.AkhbarMakka (TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0276IbnQutaybaDinawari.AdabKatib (TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
+* `0276IbnQutaybaDinawari.AnwaFiMawasim (TAGS: CENT0300, _MISC)`
+* `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (TAGS: CENT0300, _BUHUTH, _FIQH, _MASAIL)`
 * `0276IbnQutaybaDinawari.CuyunAkhbar (TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0276IbnQutaybaDinawari.GharibHadith (TAGS: CENT0300, _FIQH, _GHARIB, _HADITH, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
+* `0276IbnQutaybaDinawari.GharibQuran (TAGS: CENT0300, _CULUM, _QURAN)`
+* `0276IbnQutaybaDinawari.IkhtilafFiLafz (TAGS: CENT0300, _AJZA, _HADITH)`
+* `0276IbnQutaybaDinawari.ImamaWaSiyasa (TAGS: CENT0300, _IMAM, _NABI, _SIRA, _SIYASA)`
+* `0276IbnQutaybaDinawari.Jarathim (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0276IbnQutaybaDinawari.MacaniKabir (TAGS: CENT0300, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0276IbnQutaybaDinawari.Macarif (TAGS: CENT0300, PPE, _ANSAB, _MACAJIM, _TARIKH)`
+* `0276IbnQutaybaDinawari.RisalaKhatt (TAGS: CENT0300, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0276IbnQutaybaDinawari.ShicrWaShucara (TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _SHICR)`
+* `0276IbnQutaybaDinawari.TawilMukhtalafHadith (TAGS: CENT0300, _HADITH, _MISC, _MUSTALAHAT, _SHARH, _SUNNI)`
+* `0276IbnQutaybaDinawari.TawilMushkilQuran (TAGS: CENT0300, _CULUM, _QURAN)`
 * `0277AbuHatimRazi.JarhWaTacdil (TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0277IbnSyfyanFasawi.MacrifaWaTarikh (TAGS: CENT0300, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0279Baladhuri.AnsabAshraf (TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _MACAJIM, _TARIKH)`
