@@ -14,10 +14,17 @@
 *.htm
 *.HTM
 
+# RAR archives should not be stored here either
+*.rar
+*.RAR
+
 # Audio recordings of should not be stored either
 *.afpk
 *.mp3
 *.ogg
+
+# `Working copies of` that EditPad Pro creates
+Working\ Copy\ of *
 
 # Python scripts for prepping data
 __pycache__/
